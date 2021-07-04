@@ -1,6 +1,6 @@
 
-/* 1st pattern
-
+//1st pattern
+/*
 #include<stdio.h>
 #include<string.h>
 #include<math.h>
@@ -24,8 +24,8 @@ int main(){
 
 */
 
-/* 2nd pattern
-
+//2nd pattern
+/*
 #include<stdio.h>
 #include<string.h>
 #include<math.h>
@@ -47,8 +47,10 @@ int main(){
 
 */
 
-/* 3rd pattern
 
+//3rd pattern
+
+/*
 #include<stdio.h>
 #include<string.h>
 #include<math.h>
@@ -70,8 +72,9 @@ int main(){
 
 */
 
-/* 4th pattern
+// 4th pattern
 
+/*
 #include<stdio.h>
 #include<string.h>
 #include<math.h>
@@ -98,8 +101,9 @@ int main(){
 
 */
 
-/* 5th pattern
+// 5th pattern
 
+/*
 #include<stdio.h>
 #include<string.h>
 #include<math.h>
@@ -126,8 +130,9 @@ int main(){
 
 */
 
-/* 6th pattern
+//6th pattern
 
+/*
 #include<stdio.h>
 #include<string.h>
 #include<math.h>
@@ -155,7 +160,7 @@ int main(){
 
 */
 
-/* 7th pattern */
+// 7th pattern 
 
 #include<stdio.h>
 #include<string.h>
